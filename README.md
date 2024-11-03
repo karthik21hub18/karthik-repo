@@ -1,3 +1,3 @@
 # karthik-repo
-first repository
+This is my First repository.
 Author - Karthik
